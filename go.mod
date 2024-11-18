@@ -1,4 +1,4 @@
-module goweb-middlewares
+module github.com/xiangxiaoc/goweb-middlewares
 
 go 1.23
 
