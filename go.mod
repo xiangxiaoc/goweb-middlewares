@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/gin-gonic/gin v1.10.0
-	github.com/xiangxiaoc/glog v0.0.1
+	github.com/xiangxiaoc/glog v0.0.2
 )
 
 require (
