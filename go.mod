@@ -2,7 +2,10 @@ module github.com/xiangxiaoc/goweb-middlewares
 
 go 1.23
 
-require github.com/gin-gonic/gin v1.10.0
+require (
+	github.com/gin-gonic/gin v1.10.0
+	github.com/xiangxiaoc/glog v0.0.1
+)
 
 require (
 	github.com/bytedance/sonic v1.11.6 // indirect
